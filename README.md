@@ -1,30 +1,28 @@
-_Near the commencement of 2021, i have integrate a school in distance for take new competences in informatic._
+_At the beginning of 2021, I integrated a distance training course to acquire new computer skills._
 
-*firts-one* 
+"first-one"
 ===========
+is building my first website project.
 
-is the construction of my first web site project. 
-
-Whith the experiences durant my formation in school and at work i would like to create a little application in rapport with my job at the last of this.
-
- 👀 At the moment i learn :
----------------------------
-
-* _the bases of informatic_ 
-* of _html_
-* of _css_
-* and after : _javascript_ 
-
-For to will arrive to know the bases of REACT at final and develop my project in this one.
+To validate my final exam, I will work on several practical experiences. One of them could be the creation of a small application related to my current job.
 
 
-🏗️ Little exemple of the web site
-----------------------------------
-* Exemple html : `<div class="aside"><aside><img src="imag... /></aside>`
+👀 At the moment I am learning:
+--------------------------------
+* Computer basics
+* Html
+* Ccss
+* And after, javascript
 
-* Exemple CSS : `div {font-size: large; font-weight: oblique; font-weight: bold; text-align: right;}`
+In order to get to know the basics of REACT in the end and to be able to develop my project in it.
 
-> 💻 see you very soon !!! 🤘
+
+🏗️ Example of the current basic codes of my website
+--------------------------------------------------------
+1. HTML example: `<div class = "aside"> <aside> <img src = "imag ... /> </aside>`
+2. CSS example: `div {font-size: large; font weight: oblique; font weight: bold; text-align: right;}`
+
+> 💻 see you soon and look forward to discussing with you !!! 🤘
 
 <!---
 *tipio/first-one* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
