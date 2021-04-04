@@ -10,10 +10,10 @@ Whith the experiences durant my formation in school and at work i would like to 
  👀 At the moment i learn :
 ---------------------------
 
-*_the bases of informatic_ 
-*of _html_
-*of _css_
-*and after : _javascript_ 
+* _the bases of informatic_ 
+* of _html_
+* of _css_
+* and after : _javascript_ 
 
 For to will arrive to know the bases of REACT at final and develop my project in this one.
 
