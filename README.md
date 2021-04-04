@@ -11,7 +11,7 @@ To validate my final exam, I will work on several practical experiences. One of 
 --------------------------------
 * Computer basics
 * Html
-* Ccss
+* Css
 * And after, javascript
 
 In order to get to know the basics of REACT in the end and to be able to develop my project in it.
