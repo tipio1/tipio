@@ -24,8 +24,7 @@ For to will arrive to know the bases of REACT at final and develop my project in
 
 * Exemple CSS : `div {font-size: large; font-weight: oblique; font-weight: bold; text-align: right;}`
 
-💻 see you very soon 
-====================
+> 💻 see you very soon !!! 🤘
 
 <!---
 *tipio/first-one* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
