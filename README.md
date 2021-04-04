@@ -22,15 +22,7 @@ For to will arrive to know the bases of REACT at final and develop my project in
 ----------------------------------
 * Exemple html : `<div class="aside"><aside><img src="imag... /></aside>`
 
-* Exemple CSS :
-
-div
-{
-   font-size: large;
-   font-weight: oblique;
-   font-weight: bold;
-   text-align: right;
-}
+* Exemple CSS : `div {font-size: large; font-weight: oblique; font-weight: bold; text-align: right;}`
 
 💻 see you very soon 
 ====================
