@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Nejduy
-- 👀 I’m interested in html, css, javascript
-- 🌱 I’m currently learning html on openclassroom
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+_Near the commencement of 2021, i have integrate a school in distance for take new competences in informatic._
+
+*firts-one* 
+===========
+
+is the construction of my first web site project. 
+
+Whith the experiences durant my formation in school and at work i would like to create a little application in rapport with my job at the last of this.
+
+ 👀 At the moment i learn :
+---------------------------
+
+*_the bases of informatic_ 
+*of _html_
+*of _css_
+*and after : _javascript_ 
+
+For to will arrive to know the bases of REACT at final and develop my project in this one.
 
 <!---
-Nejduy/Nejduy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*tipio/first-one* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
