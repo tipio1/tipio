@@ -2,7 +2,7 @@ _At the beginning of 2021, I integrated a distance training course to acquire ne
 
 "first-one"
 ===========
-is building my first website project.
+# is building my first website project.
 
 To validate my final exam, I will work on several practical experiences. One of them could be the creation of a small application related to my current job.
 
@@ -14,7 +14,7 @@ To validate my final exam, I will work on several practical experiences. One of 
 * Css
 * And after, javascript
 
-In order to get to know the basics of REACT in the end and to be able to develop my project in it.
+## In order to get to know the basics of REACT in the end and to be able to develop my project in it.
 
 
 🏗️ Example of the current basic codes of my website
