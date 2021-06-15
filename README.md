@@ -1,4 +1,5 @@
 _At the beginning of 2021, I integrated a distance training course to acquire new computer skills._
+_Computer training : Commissioning digital equipment, Intervening on infrastructure elements, Assisting or troubleshooting users, developing/programming, learning & sharing_
 
 "first-one"
 ===========
