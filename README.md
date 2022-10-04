@@ -1,7 +1,7 @@
 _projects_
 =
 
-projects in different programming languages like html, css, js, bash, python
+Write in different programming languages like html, css, js, bash, python
 
 ## > 💻
 
